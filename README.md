@@ -1,5 +1,6 @@
-# rtt_questions
-A community sourced question bank of all RTT questions 
+# RTT Question Bank
+A community sourced question bank of all RTT questions. 
+This is for motorcycle riders in Singapore who are trying to pass the riding theory test (RTT)
 
 
 #### When approaching a green traffic light signal at a junction. you must?
